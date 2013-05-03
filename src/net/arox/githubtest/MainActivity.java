@@ -13,7 +13,6 @@ public class MainActivity extends Activity {
 		
 		// Github test seda
 		
-		
 	}
 
 	@Override
